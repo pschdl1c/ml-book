@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+_mnist/
+~/
+cat_dog_images/
+Untitled Folder/
+*.csv
+*.npz
+*.sqlite
+*.data
+*.h5
