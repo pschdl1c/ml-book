@@ -1,6 +1,7 @@
 .ipynb_checkpoints/
 _mnist/
 ~/
+celeba/
 cat_dog_images/
 Untitled Folder/
 *.csv
